@@ -1,4 +1,7 @@
 //untuk melihat konfigurasi login -> git config --list
 
 //untuk melihat sejauh mana commit di remote
+
 // git fetch
+//untuk melihat konfigurasi -> git config --list
+
