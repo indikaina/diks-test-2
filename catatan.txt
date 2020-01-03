@@ -1,1 +1,1 @@
-git config --list
+//untuk melihat konfigurasi -> git config --list
